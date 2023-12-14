@@ -1,0 +1,46 @@
+.da {
+    background-color: white;
+    width: 80%;
+    margin: 3% 0 0 10%;
+    height: 540px;
+    overflow: hidden;
+}
+
+.mainImg{
+    width: 300px;
+    margin: 0px 0 0 -50px;
+}
+
+h2{
+    text-align: center;
+}
+
+.detailCard{
+    width: 70%;
+    margin: 5% 0 0 15%;
+    display: flex;
+    height: 500px;
+}
+
+.info{
+    margin: 0px 0 0 50px;
+}
+
+.table {
+    white-space: nowrap;
+}
+
+.strTable {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.table .strTable:first-child {
+    margin-right: 10%;
+}
+
+.loader{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 36px;
+}

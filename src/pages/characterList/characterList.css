@@ -1,0 +1,37 @@
+.characterList h2{
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.charakList {
+    background-color: white;
+    width: 60%;
+    height: 540px;
+    border-radius: 5px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.img1{
+    width: 200px;
+}
+
+.tableHeros td{
+    padding: 30px 90px;
+}
+
+.tableHeros:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.tableHeader{
+    height: 10px;
+    text-align: center;
+
+}
